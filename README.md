@@ -88,19 +88,31 @@ MODEL_PATH = "./ckpt"
 model = AutoModelForCausalLM.from_pretrained(MODEL_PATH, trust_remote_code=True, device_map=0, torch_dtype='float16')
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH, trust_remote_code=True)
 processor = AutoProcessor.from_pretrained(MODEL_PATH, trust_remote_code=True, tokenizer=tokenizer)
-# Create time series and prompts
-timeseries = np.sin(np.arange(256) / 10) * 5.0
-timeseries[100:] -= 10.0
-prompt = f"I have a time series length of 256: <ts><ts/>. Please analyze the local changes in this time series."
+# Create batch prompts and multivariate time series
+# Note: For batch inference with multiple MTS, flatten the list of time series (concatenate lists)
+timeseries1 = [np.random.normal(size=(100,)), np.random.normal(size=(150,))]
+timeseries2 = [np.random.normal(size=(120,)), np.random.normal(size=(120,))]
+
+prompts = [
+    "I have time series 1: <ts><ts/> and time series 2: <ts><ts/>. Do both the time series keep steady?",
+    "I have time series 3: <ts><ts/> and time series 4: <ts><ts/>. Do both the time series keep increasing?"
+]
+
 # Apply Chat Template
-prompt = f"<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\n{prompt}<|im_end|>\n<|im_start|>assistant\n"
-# Convert to tensor
-inputs = processor(text=[prompt], timeseries=[timeseries], padding=True, return_tensors="pt")
+formatted_prompts = [
+    f"<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\n{p}<|im_end|>\n<|im_start|>assistant\n"
+    for p in prompts
+]
+
+# Convert to tensor. Important: timeseries input is a flat list of all series in the batch
+inputs = processor(text=formatted_prompts, timeseries=timeseries1 + timeseries2, padding=True, return_tensors="pt")
+
 # Move to GPU
 inputs = {k: v.to(0) for k, v in inputs.items()}
+
 # Model Generate
 outputs = model.generate(**inputs, max_new_tokens=300)
-print(tokenizer.decode(outputs[0][len(inputs['input_ids'][0]):], skip_special_tokens=True))
+print(tokenizer.batch_decode(outputs[:, inputs['input_ids'].shape[1]:], skip_special_tokens=True))
 ```
 
 **Notes**

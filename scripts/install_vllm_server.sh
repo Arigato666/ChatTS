@@ -33,6 +33,7 @@ fi
 
 echo ">>> Installing Flash Attention from: $FLASH_ATTN_WHL_URL"
 pip3 install "$FLASH_ATTN_WHL_URL"
+pip3 install setuptools_scm pandas
 VLLM_USE_PRECOMPILED=1 pip install -vvv -e "$CLONE_ROOT/vllm" --no-build-isolation
 cd "$ORIGINAL_DIR" || exit 1
 pip install transformers==4.52.4 "numpy<2.0.0"
