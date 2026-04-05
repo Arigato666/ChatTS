@@ -5,9 +5,9 @@
 [[🌐 **Web Demo**]](https://huggingface.co/spaces/xiezhe22/ChatTS) ·
 [[🤗 **ChatTS-14B Model**]](https://huggingface.co/bytedance-research/ChatTS-14B) ·
 [[📄 **Paper**]](https://www.vldb.org/pvldb/vol18/p2385-xie.pdf) ·
+[[🪧 **Slides**]](https://netman.aiops.org/wp-content/uploads/2026/04/ChatTS_VLDB25_pre.pptx) ·
 [[🌐 **Website**]](https://netmanaiops.github.io/ChatTS/)
 
-[[🪧 **Slides**]](https://netman.aiops.org/wp-content/uploads/2026/04/ChatTS_VLDB25_pre.pptx) ·
 [[🧰 **Training Scripts**]](https://github.com/xiezhe-24/ChatTS-Training) ·
 [[📚 **Training Datasets**]](https://huggingface.co/datasets/ChatTSRepo/ChatTS-Training-Dataset) ·
 [[🧪 **Evaluation Datasets**]](https://doi.org/10.5281/zenodo.14349206)
