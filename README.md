@@ -3,11 +3,11 @@
 # ChatTS: Time Series LLM for Understanding and Reasoning
 
 [[🌐 **Web Demo**]](https://huggingface.co/spaces/xiezhe22/ChatTS) ·
-[[🤗 **ChatTS-8B Model**]](https://huggingface.co/bytedance-research/ChatTS-8B) ·
 [[🤗 **ChatTS-14B Model**]](https://huggingface.co/bytedance-research/ChatTS-14B) ·
 [[📄 **Paper**]](https://www.vldb.org/pvldb/vol18/p2385-xie.pdf) ·
 [[🌐 **Website**]](https://netmanaiops.github.io/ChatTS/)
 
+[[🪧 **Slides**]](https://netman.aiops.org/wp-content/uploads/2026/04/ChatTS_VLDB25_pre.pptx) ·
 [[🧰 **Training Scripts**]](https://github.com/xiezhe-24/ChatTS-Training) ·
 [[📚 **Training Datasets**]](https://huggingface.co/datasets/ChatTSRepo/ChatTS-Training-Dataset) ·
 [[🧪 **Evaluation Datasets**]](https://doi.org/10.5281/zenodo.14349206)
@@ -15,11 +15,11 @@
 </div>
 
 This repository provides official implementation of ChatTS, along with the training datasets and checkpoints for *[VLDB’25] paper: ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning*.
-`ChatTS` is a Time Series Multimodal LLM (TS-MLLM) focused on **understanding** and **reasoning** over time series, just like vision/video/audio MLLMs, but **natively built for time series**. 
+`ChatTS` is a Time Series Multimodal LLM (TS-MLLM) with **question-answering** capabilities that focuses on native **understanding** and **reasoning** over time series, just like vision/video/audio MLLMs.
 
 ![Chat](figures/chat_example.png)
 
-Check out the [Case Studies](#case-studies) section for more real-world applications and sample conversations.
+See the [Case Studies](#case-studies) for more real-world applications and sample conversations.
 
 ---
 
@@ -335,3 +335,5 @@ This project is licensed under the **MIT License** (see `LICENSE`).
 ---
 
 Please kindly give us a Star 🌟 if you like this repo!
+
+If you encounter any issues, please feel free to open an issue or contact me via email: xiez22@mails.tsinghua.edu.cn
