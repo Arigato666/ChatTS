@@ -13,3 +13,4 @@ ckpt*
 vllm_input.txt
 tmp/
 vllm/
+reproduction_logs/*.log
