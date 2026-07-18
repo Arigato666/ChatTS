@@ -18,6 +18,12 @@ uploaded directly through the ChatTS CSV demo. The two categorical protocol
 channels are excluded because the current ChatTS processor accepts numeric
 time series.
 
+`telecomts_synthetic_example.csv` is a second CSV from the synthetic TelecomTS
+anomaly set. It is an `Antenna Failure` window with the annotated anomaly range
+`46-98`, so it is more suitable for inspecting an onset and recovery pattern.
+The Jamming CSV is still useful for whole-window anomaly recognition, but it
+does not provide an onset boundary because its annotation covers `0-127`.
+
 ## Server commands
 
 From the ChatTS repository root, validate the two records without loading the
@@ -67,4 +73,14 @@ python scripts/telecomts_jsonl_to_csv.py \
   --input demo/telecomts_smoke.jsonl \
   --line-index 0 \
   --output demo/telecomts_example.csv
+```
+
+For the synthetic onset example, use the raw TelecomTS file and its selected
+record:
+
+```bash
+python scripts/telecomts_jsonl_to_csv.py \
+  --input /path/to/TelecomTS/anomalous/synthetic/Zone_A/File/processed/chunked.jsonl \
+  --line-index 19 \
+  --output demo/telecomts_synthetic_example.csv
 ```
