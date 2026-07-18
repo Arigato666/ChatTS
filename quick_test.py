@@ -55,55 +55,74 @@ model = AutoModelForCausalLM.from_pretrained(
 )
 model.eval()
 
-# 人工构造一条长度为256的时间序列：
-# 前面是周期波动，从第100点开始整体下降10。
-timeseries = np.sin(np.arange(256, dtype=np.float32) / 10.0) * 5.0
-timeseries[100:] -= 10.0
-
-question = (
-    "I have a time series of length 256: <ts><ts/>. "
-    "Briefly describe its periodic pattern and its main local change."
-)
-
-prompt = (
-    "<|im_start|>system\n"
-    "You are a helpful time series analysis assistant."
-    "<|im_end|>\n"
-    "<|im_start|>user\n"
-    f"{question}"
-    "<|im_end|>\n"
-    "<|im_start|>assistant\n"
-)
-
-print("[4/4] 编码时间序列并生成回答...")
-
-inputs = processor(
-    text=[prompt],
-    timeseries=[timeseries],
-    padding=True,
-    return_tensors="pt",
-)
-
-inputs = {
-    key: value.to("cuda:0") if torch.is_tensor(value) else value
-    for key, value in inputs.items()
-}
-
-input_length = inputs["input_ids"].shape[1]
-
-with torch.inference_mode():
-    outputs = model.generate(
-        **inputs,
-        max_new_tokens=200,
-        do_sample=False,
-        use_cache=True,
+def ask_chatts(question, series_list):
+    prompt = (
+        "<|im_start|>system\n"
+        "你是一名时间序列分析助手，请始终使用中文简洁回答。"
+        "<|im_end|>\n"
+        "<|im_start|>user\n"
+        f"{question}"
+        "<|im_end|>\n"
+        "<|im_start|>assistant\n"
     )
 
-answer = tokenizer.decode(
-    outputs[0, input_length:],
-    skip_special_tokens=True,
+    inputs = processor(
+        text=[prompt],
+        timeseries=series_list,
+        padding=True,
+        return_tensors="pt",
+    )
+
+    inputs = {
+        key: value.to("cuda:0") if torch.is_tensor(value) else value
+        for key, value in inputs.items()
+    }
+
+    input_length = inputs["input_ids"].shape[1]
+
+    with torch.inference_mode():
+        outputs = model.generate(
+            **inputs,
+            max_new_tokens=180,
+            do_sample=False,
+        )
+
+    return tokenizer.decode(
+        outputs[0, input_length:],
+        skip_special_tokens=True,
+    )
+
+
+# ========== 测试1：中文单变量 ==========
+t = np.arange(256, dtype=np.float32)
+
+series = np.sin(t / 10) * 5
+series[100:] -= 10
+
+answer1 = ask_chatts(
+    "这是一条时间序列：<ts><ts/>。"
+    "请分析它的周期性，并指出主要突变发生在什么位置。",
+    [series],
 )
 
-print("\n========== ChatTS回答 ==========")
-print(answer)
-print("================================")
+print("\n========== 中文单变量 ==========")
+print(answer1)
+
+
+# ========== 测试2：中文多变量 ==========
+cpu = 40 + 3 * np.sin(t / 10)
+memory = 60 + 2 * np.sin(t / 10)
+
+# 在第120点后同时上升
+cpu[120:] += 20
+memory[120:] += 15
+
+answer2 = ask_chatts(
+    "CPU使用率为：<ts><ts/>。"
+    "内存使用率为：<ts><ts/>。"
+    "请分析两条序列的主要变化，并判断它们是否存在同步关系。",
+    [cpu, memory],
+)
+
+print("\n========== 中文多变量 ==========")
+print(answer2)

@@ -1,0 +1,9 @@
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:04,  1.39s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:02<00:02,  1.32s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:03<00:01,  1.30s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:04<00:00,  1.05it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:04<00:00,  1.09s/it]
+Generating...
+<|im_start|>system
+You are a helpful assistant.<|im_end|><|im_start|>user
+I have 2 time series. TS1 is of length 256: [offset=6.0772|scaling=3.6917|length=256|max=4.9979|min=-15.0000|left=0.0000|right=-8.2047]<ts><ts/>; TS2 if of length 256: [offset=-6.4141|scaling=2.9120|length=256|max=15.1500|min=0.0000|left=0.0000|right=12.7500]<ts><ts/>. Please analyze the local changes in these time series first and then conclude if these time series showing local changes near the same time?<|im_end|><|im_start|>assistant
+The `seen_tokens` attribute is deprecated and will be removed in v4.41. Use the `cache_position` model input instead.
+TS1 shows sudden decrease around point 99, while TS2 shows upward spike around point 103. These time series do not show local changes near the same time.<|im_end|>
+--------> Generated Answer
+TS1 shows sudden decrease around point 99, while TS2 shows upward spike around point 103. These time series do not show local changes near the same time.

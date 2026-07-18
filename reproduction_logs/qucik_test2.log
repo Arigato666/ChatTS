@@ -1,0 +1,17 @@
+       模型目录： /root/autodl-tmp/ChatTS/ckpt
+GPU： NVIDIA GeForce RTX 4090 D
+Attention后端： flash_attention_2
+
+[1/4] 加载Tokenizer...
+[2/4] 加载Processor...
+[3/4] 加载ChatTS-8B模型...
+Loading checkpoint shards: 100%|███████████████████████████| 4/4 [00:04<00:00,  1.16s/it]
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The `seen_tokens` attribute is deprecated and will be removed in v4.41. Use the `cache_position` model input instead.
+
+========== 中文单变量 ==========
+该时间序列显示正弦周期性波动，周期约为67.9点，振幅为10.0。主要突变发生在第99到104点之间，出现突然下降。
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+
+========== 中文多变量 ==========
+CPU使用率和内存使用率均呈现低频正弦波动（周期约76.8点），且在229-231点同时出现突然增加。两者在波动周期和突变点上高度同步，表明存在资源需求的协同变化。结论：存在同步关系。

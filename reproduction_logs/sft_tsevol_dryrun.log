@@ -1,0 +1,1639 @@
+Loading files...
+Loading data/llm_qa_5_no.jsonl and data/evol_labels/llm_qa_5_no.json...
+0it [00:00, ?it/s]5it [00:00, 16144.36it/s]
+Loading data/mts_local_llm_256_5_no.jsonl and data/evol_labels/mts_local_llm_256_5_no.json...
+0it [00:00, ?it/s]16it [00:00, 3975.17it/s]
+Loading data/mts_shape_llm_256_5_no.jsonl and data/evol_labels/mts_shape_llm_256_5_no.json...
+0it [00:00, ?it/s]79it [00:00, 1444.04it/s]
+Loading data/uts_llm_256_5_no.jsonl and data/evol_labels/uts_llm_256_5_no.json...
+0it [00:00, ?it/s]6it [00:00, 18014.19it/s]
+106 seed QAs loaded from file.
+  0%|          | 0/5 [00:00<?, ?it/s]
+  0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:   0%|          | 0/5 [00:00<?, ?it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 15.01it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 14.88it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 14.77it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 14.67it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 14.56it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 14.46it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 14.36it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 14.26it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 14.17it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 14.07it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 13.98it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 13.89it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 13.80it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 13.71it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 13.62it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 13.54it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 13.45it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 13.36it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 13.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 13.20it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 13.12it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 13.04it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.96it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.88it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.80it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.72it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.65it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.57it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.50it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.42it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.35it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.21it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.14it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.07it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 12.00it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.94it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.87it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.80it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.74it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.67it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.61it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.55it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.48it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.42it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.36it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.30it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.24it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.18it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.12it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.06it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 11.01it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.95it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.89it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.84it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.78it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.73it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.68it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.62it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.57it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.52it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.47it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.42it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.37it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.32it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.27it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.22it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.17it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.12it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.07it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00, 10.02it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.97it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.93it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.88it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.84it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.79it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.74it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.70it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.66it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.61it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.57it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.53it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.48it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.44it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.40it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.36it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.32it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.24it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.20it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.16it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.12it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.08it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.04it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  9.00it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  8.97it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  8.93it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  8.89it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  8.85it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A==================================================================================
+[INPUT] <|im_start|>system
+You are a helpful assistant.<|im_end|><|im_start|>user
+
+Based on the time series in CONTEXT, create deductive reasoning Q&A. Each question includes a condition and asks if the behavior aligns with it. Use Yes/No format and provide reasoning.
+
+Key Points:
+- Conditions can be rules (e.g., thresholds), contexts, or patterns.
+- Avoid specific details from the time series (e.g., "spike at point X").
+- Provide both positive (Yes) and negative (No) examples.
+
+Example:
+Question: If CPU usage above 50 is abnormal, should the current usage be treated as abnormal?
+Answer: No, because the usage did not exceed the threshold of 50.
+
+
+        #Context#
+        There are 6 timeseries with length of 256: the 1-th timeseries is Flight Delays; the 2-th timeseries is Highway Toll Revenues; the 3-th timeseries is Parking Occupancy; the 4-th timeseries is Bike-Sharing Usage; the 5-th timeseries is Bus Route Popularity; the 6-th timeseries is Public Transit On-Time Performance.
+The local change information of some time series are as follows: 
+ - In Bike-Sharing Usage: No local characteristics are found
+ - In Public Transit On-Time Performance: No local characteristics are found
+The seasonal information of some time series are as follows: In Bike-Sharing Usage, The time series is showing periodic fluctuation: the amplitude of the periodic fluctuation is 261175.0 between point 0 and point 255. Each fluctuation period is approximately 17.2 points, thus the overall fluctuation is high frequency; In Public Transit On-Time Performance, No periodic fluctuations observed, showing no periodic fluctuation;
+The trend information of some time series are as follows: In Bike-Sharing Usage, From the perspective of the slope, the overall trend is steady. The value of time series starts from around 579939.69 and ends at around 579939.69, with an overall amplitude of 0.00; In Public Transit On-Time Performance, From the perspective of the slope, the overall trend is increasing. The value of time series starts from around -0.47 and ends at around -0.36, with an overall amplitude of 0.11;
+The noise information of some time series are as follows: In Bike-Sharing Usage, The overall noise standard deviation is around 44317.33, indicating a large noisy curve; In Public Transit On-Time Performance, The overall noise standard deviation is around 0.00, very small compared the overall change of the curve. The curve is overall smooth with almost no noise;
+The statistic information of some time series are as follows: In Bike-Sharing Usage, the mean value is 657164.47, the minimum value is 906992.05 (around point 106), and the maximum value is 457065.22 (around point 214); In Public Transit On-Time Performance, the mean value is -0.41, the minimum value is -0.36 (around point 0), and the maximum value is -0.47 (around point 255); In Highway Toll Revenues, the mean value is 950.85, the minimum value is 1826.26 (around point 13), and the maximum value is -244.08 (around point 242);
+
+
+        #Contraints#
+        
+- **Logical Consistency**: Ensure the answer logically follows the question and aligns with CONTEXT.
+- **No time series details in Questions**: In the questions, use general language about the time series without mentioning specific attributes (e.g., avoid specifics like "noise of 0.5" or "spike near position 100"). Specific details can **only** appear in the answer, drawing directly from CONTEXT.
+- **Cross-Verification**: Verify all details against CONTEXT to ensure accuracy.
+- **No New Features or Names**: Use only attributes and names defined in CONTEXT.
+- **One Question, One Answer**: Limit to a single question and answer; keep it clear and concise.
+- **Unit and Start Information**: If specific time series units or starting values are provided, ensure the question includes this information (e.g., unit is days, start time is October 1, 2024, at 15:00).
+- **Output Format**: Respond in JSON only: {"question": "your question (strictly following the format in the question format)", "answer": "your answer"}. Do not include task labels like '#Given Q&A#' or '#Generated Q&A#'.
+
+        #The Given Q&A#
+        {"question": "Based on the characteristics of the time series, please describe the characteristics of Bike-Sharing Usage and Public Transit On-Time Performance from the aspects of periodicity, trend, local characteristics, frequency characteristics, and noise. And analyze whether there may be a correlation of fluctuation between them around point 58. Conclude the physical meaning of the fluctuation correlation (or no correlation) in one sentence.", "answer": "Bike-Sharing Usage: The length of the time series is 256. From the perspective of the slope, the overall trend is steady. The value of time series starts from around 579939.69 and ends at around 579939.69, with an overall amplitude of 0.00. The time series is showing periodic fluctuation: the amplitude of the periodic fluctuation is 261175.0 between point 0 and point 255. Each fluctuation period is approximately 17.2 points, thus the overall fluctuation is high frequency. The overall noise standard deviation is around 44317.33, indicating a large noisy curve.No local characteristics are found. ; Public Transit On-Time Performance: The length of the time series is 256. From the perspective of the slope, the overall trend is increasing. The value of time series starts from around -0.47 and ends at around -0.36, with an overall amplitude of 0.11. No periodic fluctuations observed, showing no periodic fluctuation. The overall noise standard deviation is around 0.00, very small compared the overall change of the curve. The curve is overall smooth with almost no noise. No local characteristics are found.  These two time series do not seem to have much correlation in terms of fluctuation around point 58. This is a test answer."}
+
+        #Question Format#
+        
+- Yes/No question based on a condition.
+- Avoid specific time series details.
+- Answer starts with Yes/No, followed by reasoning.
+
+
+        #Generated Q&A#:<|im_end|><|im_start|>assistant
+
+==================================================================================
+[INPUT] <|im_start|>system
+You are a helpful assistant.<|im_end|><|im_start|>user
+You will act as a Q&A Creator for a time series question-answering system.
+
+Objective: Create a new Q&A inspired by #Given Q&A#, aligning with the CONTEXT section. This new Q&A should explore the same domain but focus on a rarer, distinctive aspect within that context.
+
+Instructions:
+- **Time Series Attributes**: Reference only CONTEXT attributes; avoid adding details not explicitly provided.
+- **Domain Consistency with Rarity**: Keep the new Q&A in the same domain, but make it unique by focusing on rare scenarios, events, or relationships.
+
+You SHOULD create the Q&A by:
+If #The Given Q&A# can be solved with just a few simple thinking processes, you can rewrite it to explicitly request multiple-step reasoning. 
+The #Generated Q&A# must be reasonable and human-readable.
+Do not use terms like '#Given Q&A#', '#Generated Q&A#', 'given q&a', or 'created q&a' in #Generated Q&A#.
+
+        #Context#
+        There are 6 timeseries with length of 256: the 1-th timeseries is Flight Delays; the 2-th timeseries is Highway Toll Revenues; the 3-th timeseries is Parking Occupancy; the 4-th timeseries is Bike-Sharing Usage; the 5-th timeseries is Bus Route Popularity; the 6-th timeseries is Public Transit On-Time Performance.
+The local change information of some time series are as follows: 
+ - In Bike-Sharing Usage: No local characteristics are found
+ - In Public Transit On-Time Performance: No local characteristics are found
+The seasonal information of some time series are as follows: In Bike-Sharing Usage, The time series is showing periodic fluctuation: the amplitude of the periodic fluctuation is 261175.0 between point 0 and point 255. Each fluctuation period is approximately 17.2 points, thus the overall fluctuation is high frequency; In Public Transit On-Time Performance, No periodic fluctuations observed, showing no periodic fluctuation;
+The trend information of some time series are as follows: In Bike-Sharing Usage, From the perspective of the slope, the overall trend is steady. The value of time series starts from around 579939.69 and ends at around 579939.69, with an overall amplitude of 0.00; In Public Transit On-Time Performance, From the perspective of the slope, the overall trend is increasing. The value of time series starts from around -0.47 and ends at around -0.36, with an overall amplitude of 0.11;
+The noise information of some time series are as follows: In Bike-Sharing Usage, The overall noise standard deviation is around 44317.33, indicating a large noisy curve; In Public Transit On-Time Performance, The overall noise standard deviation is around 0.00, very small compared the overall change of the curve. The curve is overall smooth with almost no noise;
+The statistic information of some time series are as follows: In Bike-Sharing Usage, the mean value is 657164.47, the minimum value is 906992.05 (around point 106), and the maximum value is 457065.22 (around point 214); In Public Transit On-Time Performance, the mean value is -0.41, the minimum value is -0.36 (around point 0), and the maximum value is -0.47 (around point 255); In Flight Delays, the mean value is 0.19, the minimum value is 0.46 (around point 0), and the maximum value is 0.08 (around point 81);
+
+
+        #Contraints#
+        
+- **Logical Consistency**: Ensure the answer logically follows the question and aligns with CONTEXT.
+- **No time series details in Questions**: In the questions, use general language about the time series without mentioning specific attributes (e.g., avoid specifics like "noise of 0.5" or "spike near position 100"). Specific details can **only** appear in the answer, drawing directly from CONTEXT.
+- **Cross-Verification**: Verify all details against CONTEXT to ensure accuracy.
+- **No New Features or Names**: Use only attributes and names defined in CONTEXT.
+- **One Question, One Answer**: Limit to a single question and answer; keep it clear and concise.
+- **Unit and Start Information**: If specific time series units or starting values are provided, ensure the question includes this information (e.g., unit is days, start time is October 1, 2024, at 15:00).
+- **Output Format**: Respond in JSON only: {"question": "your question (strictly following the format in the question format)", "answer": "your answer"}. Do not include task labels like '#Given Q&A#' or '#Generated Q&A#'.
+
+        #The Given Q&A#
+        {"question": "Based on the characteristics of the time series, please describe the characteristics of Bike-Sharing Usage and Public Transit On-Time Performance from the aspects of periodicity, trend, local characteristics, frequency characteristics, and noise. And analyze whether there may be a correlation of fluctuation between them around point 58. Conclude the physical meaning of the fluctuation correlation (or no correlation) in one sentence.", "answer": "Bike-Sharing Usage: The length of the time series is 256. From the perspective of the slope, the overall trend is steady. The value of time series starts from around 579939.69 and ends at around 579939.69, with an overall amplitude of 0.00. The time series is showing periodic fluctuation: the amplitude of the periodic fluctuation is 261175.0 between point 0 and point 255. Each fluctuation period is approximately 17.2 points, thus the overall fluctuation is high frequency. The overall noise standard deviation is around 44317.33, indicating a large noisy curve.No local characteristics are found. ; Public Transit On-Time Performance: The length of the time series is 256. From the perspective of the slope, the overall trend is increasing. The value of time series starts from around -0.47 and ends at around -0.36, with an overall amplitude of 0.11. No periodic fluctuations observed, showing no periodic fluctuation. The overall noise standard deviation is around 0.00, very small compared the overall change of the curve. The curve is overall smooth with almost no noise. No local characteristics are found.  These two time series do not seem to have much correlation in terms of fluctuation around point 58. This is a test answer."}
+
+        #Question Format#
+        The question format should be like a hard math problem or other complex reasoning problem, which may be different from the original Q&A. 
+
+        #Generated Q&A#:<|im_end|><|im_start|>assistant
+[EVOL]fail=0:  20%|██        | 1/5 [00:00<00:00,  8.82it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s][EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  40%|████      | 2/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A
+==================================================================================
+[INPUT] <|im_start|>system
+You are a helpful assistant.<|im_end|><|im_start|>user
+
+Based on the time series in CONTEXT, create deductive reasoning Q&A. Each question includes a condition and asks if the behavior aligns with it. Use Yes/No format and provide reasoning.
+
+Key Points:
+- Conditions can be rules (e.g., thresholds), contexts, or patterns.
+- Avoid specific details from the time series (e.g., "spike at point X").
+- Provide both positive (Yes) and negative (No) examples.
+
+Example:
+Question: If CPU usage above 50 is abnormal, should the current usage be treated as abnormal?
+Answer: No, because the usage did not exceed the threshold of 50.
+
+
+        #Context#
+        There are 6 timeseries with length of 256: the 1-th timeseries is Flight Delays; the 2-th timeseries is Highway Toll Revenues; the 3-th timeseries is Parking Occupancy; the 4-th timeseries is Bike-Sharing Usage; the 5-th timeseries is Bus Route Popularity; the 6-th timeseries is Public Transit On-Time Performance.
+The local change information of some time series are as follows: 
+ - In Bike-Sharing Usage: No local characteristics are found
+ - In Public Transit On-Time Performance: No local characteristics are found
+ - In Highway Toll Revenues: No local characteristics are found
+The seasonal information of some time series are as follows: In Bike-Sharing Usage, The time series is showing periodic fluctuation: the amplitude of the periodic fluctuation is 261175.0 between point 0 and point 255. Each fluctuation period is approximately 17.2 points, thus the overall fluctuation is high frequency; In Public Transit On-Time Performance, No periodic fluctuations observed, showing no periodic fluctuation;
+The trend information of some time series are as follows: In Bike-Sharing Usage, From the perspective of the slope, the overall trend is steady. The value of time series starts from around 579939.69 and ends at around 579939.69, with an overall amplitude of 0.00; In Public Transit On-Time Performance, From the perspective of the slope, the overall trend is increasing. The value of time series starts from around -0.47 and ends at around -0.36, with an overall amplitude of 0.11;
+The noise information of some time series are as follows: In Bike-Sharing Usage, The overall noise standard deviation is around 44317.33, indicating a large noisy curve; In Public Transit On-Time Performance, The overall noise standard deviation is around 0.00, very small compared the overall change of the curve. The curve is overall smooth with almost no noise;
+The statistic information of some time series are as follows: In Bike-Sharing Usage, the mean value is 657164.47, the minimum value is 906992.05 (around point 106), and the maximum value is 457065.22 (around point 214); In Public Transit On-Time Performance, the mean value is -0.41, the minimum value is -0.36 (around point 0), and the maximum value is -0.47 (around point 255);
+
+
+        #Contraints#
+        
+- **Logical Consistency**: Ensure the answer logically follows the question and aligns with CONTEXT.
+- **No time series details in Questions**: In the questions, use general language about the time series without mentioning specific attributes (e.g., avoid specifics like "noise of 0.5" or "spike near position 100"). Specific details can **only** appear in the answer, drawing directly from CONTEXT.
+- **Cross-Verification**: Verify all details against CONTEXT to ensure accuracy.
+- **No New Features or Names**: Use only attributes and names defined in CONTEXT.
+- **One Question, One Answer**: Limit to a single question and answer; keep it clear and concise.
+- **Unit and Start Information**: If specific time series units or starting values are provided, ensure the question includes this information (e.g., unit is days, start time is October 1, 2024, at 15:00).
+- **Output Format**: Respond in JSON only: {"question": "your question (strictly following the format in the question format)", "answer": "your answer"}. Do not include task labels like '#Given Q&A#' or '#Generated Q&A#'.
+
+        #The Given Q&A#
+        {"question": "Based on the characteristics of the time series, please describe the characteristics of Bike-Sharing Usage and Public Transit On-Time Performance from the aspects of periodicity, trend, local characteristics, frequency characteristics, and noise. And analyze whether there may be a correlation of fluctuation between them around point 58. Conclude the physical meaning of the fluctuation correlation (or no correlation) in one sentence.", "answer": "Bike-Sharing Usage: The length of the time series is 256. From the perspective of the slope, the overall trend is steady. The value of time series starts from around 579939.69 and ends at around 579939.69, with an overall amplitude of 0.00. The time series is showing periodic fluctuation: the amplitude of the periodic fluctuation is 261175.0 between point 0 and point 255. Each fluctuation period is approximately 17.2 points, thus the overall fluctuation is high frequency. The overall noise standard deviation is around 44317.33, indicating a large noisy curve.No local characteristics are found. ; Public Transit On-Time Performance: The length of the time series is 256. From the perspective of the slope, the overall trend is increasing. The value of time series starts from around -0.47 and ends at around -0.36, with an overall amplitude of 0.11. No periodic fluctuations observed, showing no periodic fluctuation. The overall noise standard deviation is around 0.00, very small compared the overall change of the curve. The curve is overall smooth with almost no noise. No local characteristics are found.  These two time series do not seem to have much correlation in terms of fluctuation around point 58. This is a test answer."}
+
+        #Question Format#
+        
+- Yes/No question based on a condition.
+- Avoid specific time series details.
+- Answer starts with Yes/No, followed by reasoning.
+
+
+        #Generated Q&A#:<|im_end|><|im_start|>assistant
+
+==================================================================================
+[INPUT] <|im_start|>system
+You are a helpful assistant.<|im_end|><|im_start|>user
+You will act as a Q&A Rewriter for a time series question-answering system.
+
+Objective: Rewrite the provided Q&A to increase complexity and nuance, creating a challenge for advanced AI systems by using CONTEXT information related to the time series. The rewritten Q&A should remain logical, understandable, and respondable by humans.
+
+Instructions:
+- **Time Series Attributes**: Only use information from CONTEXT; do not invent additional details outside of this context.
+- **Non-Text Elements**: Retain any non-text parts in #The Given Q&A#, including tables, charts, or code.
+- **Input Integrity**: Ensure all inputs from #The Given Q&A# are included in the rewrite.
+
+You SHOULD add complexity by:
+If #The Given Q&A# contains inquiries about certain issues, the depth and breadth of the inquiry can be increased. 
+Limit additional words in #Generated Q&A# to 10-20 beyond #The Given Q&A#.
+Do not use terms like '#The Given Q&A#', '#Generated Q&A#', 'given q&a', or 'rewritten q&a' in #Generated Q&A#.
+
+        #Context#
+        There are 14 timeseries with length of 256: the 1-th timeseries is Pod CPU and Memory Usage; the 2-th timeseries is etcd Metrics; the 3-th timeseries is Controller Manager Metrics; the 4-th timeseries is Ingress Controller Metrics; the 5-th timeseries is DaemonSet Status; the 6-th timeseries is Node Memory Usage; the 7-th timeseries is Node CPU Usage; the 8-th timeseries is API Server Latency; the 9-th timeseries is Cluster Autoscaler Metrics; the 10-th timeseries is Scheduler Performance; the 11-th timeseries is Service Endpoint Counts; the 12-th timeseries is Namespace Resource Quotas; the 13-th timeseries is Deployment Rollout Status; the 14-th timeseries is ReplicaSet Status.
+The trend information of some time series are as follows: In Deployment Rollout Status, From the perspective of the slope, the overall trend is steady. The value of time series starts from around -399671.81 and ends at around -399671.81, with an overall amplitude of 0.00; In DaemonSet Status, From the perspective of the slope, the overall trend is steady. The value of time series starts from around -3.53 and ends at around -3.53, with an overall amplitude of 0.00; In API Server Latency, From the perspective of the slope, the overall trend is steady. The value of time series starts from around 0.59 and ends at around 0.59, with an overall amplitude of 0.00;
+
+
+        #Contraints#
+        
+- **Logical Consistency**: Ensure the answer logically follows the question and aligns with CONTEXT.
+- **No time series details in Questions**: In the questions, use general language about the time series without mentioning specific attributes (e.g., avoid specifics like "noise of 0.5" or "spike near position 100"). Specific details can **only** appear in the answer, drawing directly from CONTEXT.
+- **Cross-Verification**: Verify all details against CONTEXT to ensure accuracy.
+- **No New Features or Names**: Use only attributes and names defined in CONTEXT.
+- **One Question, One Answer**: Limit to a single question and answer; keep it clear and concise.
+- **Unit and Start Information**: If specific time series units or starting values are provided, ensure the question includes this information (e.g., unit is days, start time is October 1, 2024, at 15:00).
+- **Output Format**: Respond in JSON only: {"question": "your question (strictly following the format in the question format)", "answer": "your answer"}. Do not include task labels like '#Given Q&A#' or '#Generated Q&A#'.
+
+        #The Given Q&A#
+        {"question": "Based on the **trend** characteristics analyze whether there may be a correlation of trend between Deployment Rollout Status and DaemonSet Status. Conclude the physical meaning of the trend correlation (or no correlation) in one sentence.", "answer": "DaemonSet Status is totally different from Deployment Rollout Status in terms of trend. The trend of Deployment Rollout Status is: From point 3 to point 83, there is an increasing trend. From point 83 to point 255, there is a decreasing trend with some variation in slope. While the trend of DaemonSet Status is: From point 4 to point 66, there is a decreasing trend. From point 66 to point 155, there is an increasing trend. From point 155 to point 255, there is a decreasing trend. This is a test answer."}
+
+        #Question Format#
+        The question format should be similar with the given qa, but the depth and breadth of the inquiry can be increased.
+
+        #Generated Q&A#:<|im_end|><|im_start|>assistant
+[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  60%|██████    | 3/5 [00:00<00:00, 17.19it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s][EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:   0%|          | 0/5 [00:00<?, ?it/s][A
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A
+==================================================================================
+[INPUT] <|im_start|>system
+You are a helpful assistant.<|im_end|><|im_start|>user
+#Context#
+        There are 6 timeseries with length of 256: the 1-th timeseries is Flight Delays; the 2-th timeseries is Highway Toll Revenues; the 3-th timeseries is Parking Occupancy; the 4-th timeseries is Bike-Sharing Usage; the 5-th timeseries is Bus Route Popularity; the 6-th timeseries is Public Transit On-Time Performance.
+The local change information of some time series are as follows: 
+ - In Bike-Sharing Usage: No local characteristics are found
+ - In Public Transit On-Time Performance: No local characteristics are found
+The seasonal information of some time series are as follows: In Bike-Sharing Usage, The time series is showing periodic fluctuation: the amplitude of the periodic fluctuation is 261175.0 between point 0 and point 255. Each fluctuation period is approximately 17.2 points, thus the overall fluctuation is high frequency; In Public Transit On-Time Performance, No periodic fluctuations observed, showing no periodic fluctuation;
+The trend information of some time series are as follows: In Bike-Sharing Usage, From the perspective of the slope, the overall trend is steady. The value of time series starts from around 579939.69 and ends at around 579939.69, with an overall amplitude of 0.00; In Public Transit On-Time Performance, From the perspective of the slope, the overall trend is increasing. The value of time series starts from around -0.47 and ends at around -0.36, with an overall amplitude of 0.11;
+The noise information of some time series are as follows: In Bike-Sharing Usage, The overall noise standard deviation is around 44317.33, indicating a large noisy curve; In Public Transit On-Time Performance, The overall noise standard deviation is around 0.00, very small compared the overall change of the curve. The curve is overall smooth with almost no noise;
+The statistic information of some time series are as follows: In Bike-Sharing Usage, the mean value is 657164.47, the minimum value is 906992.05 (around point 106), and the maximum value is 457065.22 (around point 214); In Public Transit On-Time Performance, the mean value is -0.41, the minimum value is -0.36 (around point 0), and the maximum value is -0.47 (around point 255); In Highway Toll Revenues, the mean value is 950.85, the minimum value is 1826.26 (around point 13), and the maximum value is -244.08 (around point 242);
+
+
+        #Your Task#
+        Here are two Instructions to ChatGPT AI, do you think they are equal to each other, which meet any one of the following requirements:
+    1. Their questions and answers are almost the same, with only minor modification in terms of the order of the sequences.
+    2. The second QA is an simple and obvious inference from the first QA
+    3. No difference between the breadths or depths of the two QAs
+
+If you think they are equal, then just answer Equal.
+If they are not equal, then do you think it is a valid Q&A that meets all of the below requirements:
+    1. All information about the time series in the **second** Q&A can be sourced from the CONTEXT section and not generated without CONTEXT.
+    2. The question should not reveal specific time series attributes (e.g., avoid terms like "noise of 0.5" or "spike near position 100"), as these details are intended to appear **only** in the answer based on CONTEXT.
+
+
+The First Q&A: {"question": "Based on the characteristics of the time series, please describe the characteristics of Bike-Sharing Usage and Public Transit On-Time Performance from the aspects of periodicity, trend, local characteristics, frequency characteristics, and noise. And analyze whether there may be a correlation of fluctuation between them around point 58. Conclude the physical meaning of the fluctuation correlation (or no correlation) in one sentence.", "answer": "Bike-Sharing Usage: The length of the time series is 256. From the perspective of the slope, the overall trend is steady. The value of time series starts from around 579939.69 and ends at around 579939.69, with an overall amplitude of 0.00. The time series is showing periodic fluctuation: the amplitude of the periodic fluctuation is 261175.0 between point 0 and point 255. Each fluctuation period is approximately 17.2 points, thus the overall fluctuation is high frequency. The overall noise standard deviation is around 44317.33, indicating a large noisy curve.No local characteristics are found. ; Public Transit On-Time Performance: The length of the time series is 256. From the perspective of the slope, the overall trend is increasing. The value of time series starts from around -0.47 and ends at around -0.36, with an overall amplitude of 0.11. No periodic fluctuations observed, showing no periodic fluctuation. The overall noise standard deviation is around 0.00, very small compared the overall change of the curve. The curve is overall smooth with almost no noise. No local characteristics are found.  These two time series do not seem to have much correlation in terms of fluctuation around point 58. This is a test answer."}
+The Second Q&A: {"question": "This is a test question.", "answer": "This is a test answer."}
+
+Your Judgement (Just answer: Equal/Invalid/Valid. No need to explain the reason.):<|im_end|><|im_start|>assistant
+
+==================================================================================
+[INPUT] <|im_start|>system
+You are a helpful assistant.<|im_end|><|im_start|>user
+#Context#
+        There are 6 timeseries with length of 256: the 1-th timeseries is Flight Delays; the 2-th timeseries is Highway Toll Revenues; the 3-th timeseries is Parking Occupancy; the 4-th timeseries is Bike-Sharing Usage; the 5-th timeseries is Bus Route Popularity; the 6-th timeseries is Public Transit On-Time Performance.
+The local change information of some time series are as follows: 
+ - In Bike-Sharing Usage: No local characteristics are found
+ - In Public Transit On-Time Performance: No local characteristics are found
+The seasonal information of some time series are as follows: In Bike-Sharing Usage, The time series is showing periodic fluctuation: the amplitude of the periodic fluctuation is 261175.0 between point 0 and point 255. Each fluctuation period is approximately 17.2 points, thus the overall fluctuation is high frequency; In Public Transit On-Time Performance, No periodic fluctuations observed, showing no periodic fluctuation;
+The trend information of some time series are as follows: In Bike-Sharing Usage, From the perspective of the slope, the overall trend is steady. The value of time series starts from around 579939.69 and ends at around 579939.69, with an overall amplitude of 0.00; In Public Transit On-Time Performance, From the perspective of the slope, the overall trend is increasing. The value of time series starts from around -0.47 and ends at around -0.36, with an overall amplitude of 0.11;
+The noise information of some time series are as follows: In Bike-Sharing Usage, The overall noise standard deviation is around 44317.33, indicating a large noisy curve; In Public Transit On-Time Performance, The overall noise standard deviation is around 0.00, very small compared the overall change of the curve. The curve is overall smooth with almost no noise;
+The statistic information of some time series are as follows: In Bike-Sharing Usage, the mean value is 657164.47, the minimum value is 906992.05 (around point 106), and the maximum value is 457065.22 (around point 214); In Public Transit On-Time Performance, the mean value is -0.41, the minimum value is -0.36 (around point 0), and the maximum value is -0.47 (around point 255); In Flight Delays, the mean value is 0.19, the minimum value is 0.46 (around point 0), and the maximum value is 0.08 (around point 81);
+
+
+        #Your Task#
+        Here are two Instructions to ChatGPT AI, do you think they are equal to each other, which meet any one of the following requirements:
+    1. Their questions and answers are almost the same, with only minor modification in terms of the order of the sequences.
+    2. The second QA is an simple and obvious inference from the first QA
+    3. No difference between the breadths or depths of the two QAs
+
+If you think they are equal, then just answer Equal.
+If they are not equal, then do you think it is a valid Q&A that meets all of the below requirements:
+    1. All information about the time series in the **second** Q&A can be sourced from the CONTEXT section and not generated without CONTEXT.
+    2. The question should not reveal specific time series attributes (e.g., avoid terms like "noise of 0.5" or "spike near position 100"), as these details are intended to appear **only** in the answer based on CONTEXT.
+
+
+The First Q&A: {"question": "Based on the characteristics of the time series, please describe the characteristics of Bike-Sharing Usage and Public Transit On-Time Performance from the aspects of periodicity, trend, local characteristics, frequency characteristics, and noise. And analyze whether there may be a correlation of fluctuation between them around point 58. Conclude the physical meaning of the fluctuation correlation (or no correlation) in one sentence.", "answer": "Bike-Sharing Usage: The length of the time series is 256. From the perspective of the slope, the overall trend is steady. The value of time series starts from around 579939.69 and ends at around 579939.69, with an overall amplitude of 0.00. The time series is showing periodic fluctuation: the amplitude of the periodic fluctuation is 261175.0 between point 0 and point 255. Each fluctuation period is approximately 17.2 points, thus the overall fluctuation is high frequency. The overall noise standard deviation is around 44317.33, indicating a large noisy curve.No local characteristics are found. ; Public Transit On-Time Performance: The length of the time series is 256. From the perspective of the slope, the overall trend is increasing. The value of time series starts from around -0.47 and ends at around -0.36, with an overall amplitude of 0.11. No periodic fluctuations observed, showing no periodic fluctuation. The overall noise standard deviation is around 0.00, very small compared the overall change of the curve. The curve is overall smooth with almost no noise. No local characteristics are found.  These two time series do not seem to have much correlation in terms of fluctuation around point 58. This is a test answer."}
+The Second Q&A: {"question": "This is a test question.", "answer": "This is a test answer."}
+
+Your Judgement (Just answer: Equal/Invalid/Valid. No need to explain the reason.):<|im_end|><|im_start|>assistant
+[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  20%|██        | 1/5 [00:00<00:01,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  40%|████      | 2/5 [00:00<00:00,  3.68it/s][A
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+
+==================================================================================
+[INPUT] <|im_start|>system
+You are a helpful assistant.<|im_end|><|im_start|>user
+#Context#
+        There are 6 timeseries with length of 256: the 1-th timeseries is Flight Delays; the 2-th timeseries is Highway Toll Revenues; the 3-th timeseries is Parking Occupancy; the 4-th timeseries is Bike-Sharing Usage; the 5-th timeseries is Bus Route Popularity; the 6-th timeseries is Public Transit On-Time Performance.
+The local change information of some time series are as follows: 
+ - In Bike-Sharing Usage: No local characteristics are found
+ - In Public Transit On-Time Performance: No local characteristics are found
+ - In Highway Toll Revenues: No local characteristics are found
+The seasonal information of some time series are as follows: In Bike-Sharing Usage, The time series is showing periodic fluctuation: the amplitude of the periodic fluctuation is 261175.0 between point 0 and point 255. Each fluctuation period is approximately 17.2 points, thus the overall fluctuation is high frequency; In Public Transit On-Time Performance, No periodic fluctuations observed, showing no periodic fluctuation;
+The trend information of some time series are as follows: In Bike-Sharing Usage, From the perspective of the slope, the overall trend is steady. The value of time series starts from around 579939.69 and ends at around 579939.69, with an overall amplitude of 0.00; In Public Transit On-Time Performance, From the perspective of the slope, the overall trend is increasing. The value of time series starts from around -0.47 and ends at around -0.36, with an overall amplitude of 0.11;
+The noise information of some time series are as follows: In Bike-Sharing Usage, The overall noise standard deviation is around 44317.33, indicating a large noisy curve; In Public Transit On-Time Performance, The overall noise standard deviation is around 0.00, very small compared the overall change of the curve. The curve is overall smooth with almost no noise;
+The statistic information of some time series are as follows: In Bike-Sharing Usage, the mean value is 657164.47, the minimum value is 906992.05 (around point 106), and the maximum value is 457065.22 (around point 214); In Public Transit On-Time Performance, the mean value is -0.41, the minimum value is -0.36 (around point 0), and the maximum value is -0.47 (around point 255);
+
+
+        #Your Task#
+        Here are two Instructions to ChatGPT AI, do you think they are equal to each other, which meet any one of the following requirements:
+    1. Their questions and answers are almost the same, with only minor modification in terms of the order of the sequences.
+    2. The second QA is an simple and obvious inference from the first QA
+    3. No difference between the breadths or depths of the two QAs
+
+If you think they are equal, then just answer Equal.
+If they are not equal, then do you think it is a valid Q&A that meets all of the below requirements:
+    1. All information about the time series in the **second** Q&A can be sourced from the CONTEXT section and not generated without CONTEXT.
+    2. The question should not reveal specific time series attributes (e.g., avoid terms like "noise of 0.5" or "spike near position 100"), as these details are intended to appear **only** in the answer based on CONTEXT.
+
+
+The First Q&A: {"question": "Based on the characteristics of the time series, please describe the characteristics of Bike-Sharing Usage and Public Transit On-Time Performance from the aspects of periodicity, trend, local characteristics, frequency characteristics, and noise. And analyze whether there may be a correlation of fluctuation between them around point 58. Conclude the physical meaning of the fluctuation correlation (or no correlation) in one sentence.", "answer": "Bike-Sharing Usage: The length of the time series is 256. From the perspective of the slope, the overall trend is steady. The value of time series starts from around 579939.69 and ends at around 579939.69, with an overall amplitude of 0.00. The time series is showing periodic fluctuation: the amplitude of the periodic fluctuation is 261175.0 between point 0 and point 255. Each fluctuation period is approximately 17.2 points, thus the overall fluctuation is high frequency. The overall noise standard deviation is around 44317.33, indicating a large noisy curve.No local characteristics are found. ; Public Transit On-Time Performance: The length of the time series is 256. From the perspective of the slope, the overall trend is increasing. The value of time series starts from around -0.47 and ends at around -0.36, with an overall amplitude of 0.11. No periodic fluctuations observed, showing no periodic fluctuation. The overall noise standard deviation is around 0.00, very small compared the overall change of the curve. The curve is overall smooth with almost no noise. No local characteristics are found.  These two time series do not seem to have much correlation in terms of fluctuation around point 58. This is a test answer."}
+The Second Q&A: {"question": "This is a test question.", "answer": "This is a test answer."}
+
+Your Judgement (Just answer: Equal/Invalid/Valid. No need to explain the reason.):<|im_end|><|im_start|>assistant
+
+==================================================================================
+[INPUT] <|im_start|>system
+You are a helpful assistant.<|im_end|><|im_start|>user
+
+Create causal reasoning Q&A for time series. Questions prompt the model to infer causes or effects using multiple-choice answers.
+
+Key Points:
+- Categories: Cause Identification, Effect Prediction, Anomaly Explanation, Temporal Correlation.
+- Avoid specific details from the time series (e.g., "spike at point X").
+- Include detailed reasoning for the answers.
+
+Example:
+Question: What likely caused the observed pattern? Choose from: load increase, maintenance, stable operations.
+Answer: Load increase. The spikes suggest unexpected surges in system load.
+
+
+        #Context#
+        There are 14 timeseries with length of 256: the 1-th timeseries is Pod CPU and Memory Usage; the 2-th timeseries is etcd Metrics; the 3-th timeseries is Controller Manager Metrics; the 4-th timeseries is Ingress Controller Metrics; the 5-th timeseries is DaemonSet Status; the 6-th timeseries is Node Memory Usage; the 7-th timeseries is Node CPU Usage; the 8-th timeseries is API Server Latency; the 9-th timeseries is Cluster Autoscaler Metrics; the 10-th timeseries is Scheduler Performance; the 11-th timeseries is Service Endpoint Counts; the 12-th timeseries is Namespace Resource Quotas; the 13-th timeseries is Deployment Rollout Status; the 14-th timeseries is ReplicaSet Status.
+The trend information of some time series are as follows: In Deployment Rollout Status, From the perspective of the slope, the overall trend is steady. The value of time series starts from around -399671.81 and ends at around -399671.81, with an overall amplitude of 0.00; In DaemonSet Status, From the perspective of the slope, the overall trend is steady. The value of time series starts from around -3.53 and ends at around -3.53, with an overall amplitude of 0.00;
+The statistic information of some time series are as follows: In Service Endpoint Counts, the mean value is -5.8, the minimum value is -5.8 (around point 0), and the maximum value is -5.8 (around point 0);
+
+
+        #Contraints#
+        
+- **Logical Consistency**: Ensure the answer logically follows the question and aligns with CONTEXT.
+- **No time series details in Questions**: In the questions, use general language about the time series without mentioning specific attributes (e.g., avoid specifics like "noise of 0.5" or "spike near position 100"). Specific details can **only** appear in the answer, drawing directly from CONTEXT.
+- **Cross-Verification**: Verify all details against CONTEXT to ensure accuracy.
+- **No New Features or Names**: Use only attributes and names defined in CONTEXT.
+- **One Question, One Answer**: Limit to a single question and answer; keep it clear and concise.
+- **Unit and Start Information**: If specific time series units or starting values are provided, ensure the question includes this information (e.g., unit is days, start time is October 1, 2024, at 15:00).
+- **Output Format**: Respond in JSON only: {"question": "your question (strictly following the format in the question format)", "answer": "your answer"}. Do not include task labels like '#Given Q&A#' or '#Generated Q&A#'.
+
+        #The Given Q&A#
+        {"question": "Based on the **trend** characteristics analyze whether there may be a correlation of trend between Deployment Rollout Status and DaemonSet Status. Conclude the physical meaning of the trend correlation (or no correlation) in one sentence.", "answer": "DaemonSet Status is totally different from Deployment Rollout Status in terms of trend. The trend of Deployment Rollout Status is: From point 3 to point 83, there is an increasing trend. From point 83 to point 255, there is a decreasing trend with some variation in slope. While the trend of DaemonSet Status is: From point 4 to point 66, there is a decreasing trend. From point 66 to point 155, there is an increasing trend. From point 155 to point 255, there is a decreasing trend. This is a test answer."}
+
+        #Question Format#
+        
+- Multiple-choice question about causes or effects.
+- Categories: Cause Identification, Effect Prediction, Anomaly Explanation, Temporal Correlation.
+- Answer includes choice and reasoning.
+
+
+        #Generated Q&A#:<|im_end|><|im_start|>assistant
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0:  80%|████████  | 4/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  60%|██████    | 3/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: 100%|██████████| 5/5 [00:00<00:00, 18.28it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]                     [EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A
+==================================================================================
+[INPUT] <|im_start|>system
+You are a helpful assistant.<|im_end|><|im_start|>user
+#Context#
+        There are 14 timeseries with length of 256: the 1-th timeseries is Pod CPU and Memory Usage; the 2-th timeseries is etcd Metrics; the 3-th timeseries is Controller Manager Metrics; the 4-th timeseries is Ingress Controller Metrics; the 5-th timeseries is DaemonSet Status; the 6-th timeseries is Node Memory Usage; the 7-th timeseries is Node CPU Usage; the 8-th timeseries is API Server Latency; the 9-th timeseries is Cluster Autoscaler Metrics; the 10-th timeseries is Scheduler Performance; the 11-th timeseries is Service Endpoint Counts; the 12-th timeseries is Namespace Resource Quotas; the 13-th timeseries is Deployment Rollout Status; the 14-th timeseries is ReplicaSet Status.
+The trend information of some time series are as follows: In Deployment Rollout Status, From the perspective of the slope, the overall trend is steady. The value of time series starts from around -399671.81 and ends at around -399671.81, with an overall amplitude of 0.00; In DaemonSet Status, From the perspective of the slope, the overall trend is steady. The value of time series starts from around -3.53 and ends at around -3.53, with an overall amplitude of 0.00; In API Server Latency, From the perspective of the slope, the overall trend is steady. The value of time series starts from around 0.59 and ends at around 0.59, with an overall amplitude of 0.00;
+
+
+        #Your Task#
+        Here are two Instructions to ChatGPT AI, do you think they are equal to each other, which meet any one of the following requirements:
+    1. Their questions and answers are almost the same, with only minor modification in terms of the order of the sequences.
+    2. The second QA is an simple and obvious inference from the first QA
+    3. No difference between the breadths or depths of the two QAs
+
+If you think they are equal, then just answer Equal.
+If they are not equal, then do you think it is a valid Q&A that meets all of the below requirements:
+    1. All information about the time series in the **second** Q&A can be sourced from the CONTEXT section and not generated without CONTEXT.
+    2. The question should not reveal specific time series attributes (e.g., avoid terms like "noise of 0.5" or "spike near position 100"), as these details are intended to appear **only** in the answer based on CONTEXT.
+
+
+The First Q&A: {"question": "Based on the **trend** characteristics analyze whether there may be a correlation of trend between Deployment Rollout Status and DaemonSet Status. Conclude the physical meaning of the trend correlation (or no correlation) in one sentence.", "answer": "DaemonSet Status is totally different from Deployment Rollout Status in terms of trend. The trend of Deployment Rollout Status is: From point 3 to point 83, there is an increasing trend. From point 83 to point 255, there is a decreasing trend with some variation in slope. While the trend of DaemonSet Status is: From point 4 to point 66, there is a decreasing trend. From point 66 to point 155, there is an increasing trend. From point 155 to point 255, there is a decreasing trend. This is a test answer."}
+The Second Q&A: {"question": "This is a test question.", "answer": "This is a test answer."}
+
+Your Judgement (Just answer: Equal/Invalid/Valid. No need to explain the reason.):<|im_end|><|im_start|>assistant
+
+==================================================================================
+[INPUT] <|im_start|>system
+You are a helpful assistant.<|im_end|><|im_start|>user
+
+Based on the time series in CONTEXT, create deductive reasoning Q&A. Each question includes a condition and asks if the behavior aligns with it. Use Yes/No format and provide reasoning.
+
+Key Points:
+- Conditions can be rules (e.g., thresholds), contexts, or patterns.
+- Avoid specific details from the time series (e.g., "spike at point X").
+- Provide both positive (Yes) and negative (No) examples.
+
+Example:
+Question: If CPU usage above 50 is abnormal, should the current usage be treated as abnormal?
+Answer: No, because the usage did not exceed the threshold of 50.
+
+
+        #Context#
+        There are 14 timeseries with length of 256: the 1-th timeseries is Pod CPU and Memory Usage; the 2-th timeseries is etcd Metrics; the 3-th timeseries is Controller Manager Metrics; the 4-th timeseries is Ingress Controller Metrics; the 5-th timeseries is DaemonSet Status; the 6-th timeseries is Node Memory Usage; the 7-th timeseries is Node CPU Usage; the 8-th timeseries is API Server Latency; the 9-th timeseries is Cluster Autoscaler Metrics; the 10-th timeseries is Scheduler Performance; the 11-th timeseries is Service Endpoint Counts; the 12-th timeseries is Namespace Resource Quotas; the 13-th timeseries is Deployment Rollout Status; the 14-th timeseries is ReplicaSet Status.
+The trend information of some time series are as follows: In Deployment Rollout Status, From the perspective of the slope, the overall trend is steady. The value of time series starts from around -399671.81 and ends at around -399671.81, with an overall amplitude of 0.00; In DaemonSet Status, From the perspective of the slope, the overall trend is steady. The value of time series starts from around -3.53 and ends at around -3.53, with an overall amplitude of 0.00;
+The seasonal information of some time series are as follows: In Node Memory Usage, No periodic fluctuations observed, showing no periodic fluctuation;
+
+
+        #Contraints#
+        
+- **Logical Consistency**: Ensure the answer logically follows the question and aligns with CONTEXT.
+- **No time series details in Questions**: In the questions, use general language about the time series without mentioning specific attributes (e.g., avoid specifics like "noise of 0.5" or "spike near position 100"). Specific details can **only** appear in the answer, drawing directly from CONTEXT.
+- **Cross-Verification**: Verify all details against CONTEXT to ensure accuracy.
+- **No New Features or Names**: Use only attributes and names defined in CONTEXT.
+- **One Question, One Answer**: Limit to a single question and answer; keep it clear and concise.
+- **Unit and Start Information**: If specific time series units or starting values are provided, ensure the question includes this information (e.g., unit is days, start time is October 1, 2024, at 15:00).
+- **Output Format**: Respond in JSON only: {"question": "your question (strictly following the format in the question format)", "answer": "your answer"}. Do not include task labels like '#Given Q&A#' or '#Generated Q&A#'.
+
+        #The Given Q&A#
+        {"question": "Based on the **trend** characteristics analyze whether there may be a correlation of trend between Deployment Rollout Status and DaemonSet Status. Conclude the physical meaning of the trend correlation (or no correlation) in one sentence.", "answer": "DaemonSet Status is totally different from Deployment Rollout Status in terms of trend. The trend of Deployment Rollout Status is: From point 3 to point 83, there is an increasing trend. From point 83 to point 255, there is a decreasing trend with some variation in slope. While the trend of DaemonSet Status is: From point 4 to point 66, there is a decreasing trend. From point 66 to point 155, there is an increasing trend. From point 155 to point 255, there is a decreasing trend. This is a test answer."}
+
+        #Question Format#
+        
+- Yes/No question based on a condition.
+- Avoid specific time series details.
+- Answer starts with Yes/No, followed by reasoning.
+
+
+        #Generated Q&A#:<|im_end|><|im_start|>assistant
+
+==================================================================================
+[INPUT] <|im_start|>system
+You are a helpful assistant.<|im_end|><|im_start|>user
+You will act as a Q&A Rewriter for a time series question-answering system.
+
+Objective: Rewrite the provided Q&A to increase complexity and nuance, creating a challenge for advanced AI systems by using CONTEXT information related to the time series. The rewritten Q&A should remain logical, understandable, and respondable by humans.
+
+Instructions:
+- **Time Series Attributes**: Only use information from CONTEXT; do not invent additional details outside of this context.
+- **Non-Text Elements**: Retain any non-text parts in #The Given Q&A#, including tables, charts, or code.
+- **Input Integrity**: Ensure all inputs from #The Given Q&A# are included in the rewrite.
+
+You SHOULD add complexity by:
+If #The Given Q&A# contains inquiries about certain issues, the depth and breadth of the inquiry can be increased. 
+Limit additional words in #Generated Q&A# to 10-20 beyond #The Given Q&A#.
+Do not use terms like '#The Given Q&A#', '#Generated Q&A#', 'given q&a', or 'rewritten q&a' in #Generated Q&A#.
+
+        #Context#
+        There are 1 timeseries with length of 256: the 1-th timeseries is Replication Lag.
+The trend information of some time series are as follows: In Replication Lag, From the perspective of the slope, the overall trend is steady. However, local phase changes were observed, including: sudden increase. The value of time series starts from around 8.84 and ends at around 48.89, with an overall amplitude of 40.05;
+The local change information of some time series are as follows: 
+ - In Replication Lag: In terms of local characteristics, a sudden increase with an amplitude of 40.05 occurred between point 49 and point 51, with the time series value rising from around 8.84 to around 48.89, forming a sudden increase
+
+
+        #Contraints#
+        
+- **Logical Consistency**: Ensure the answer logically follows the question and aligns with CONTEXT.
+- **No time series details in Questions**: In the questions, use general language about the time series without mentioning specific attributes (e.g., avoid specifics like "noise of 0.5" or "spike near position 100"). Specific details can **only** appear in the answer, drawing directly from CONTEXT.
+- **Cross-Verification**: Verify all details against CONTEXT to ensure accuracy.
+- **No New Features or Names**: Use only attributes and names defined in CONTEXT.
+- **One Question, One Answer**: Limit to a single question and answer; keep it clear and concise.
+- **Unit and Start Information**: If specific time series units or starting values are provided, ensure the question includes this information (e.g., unit is days, start time is October 1, 2024, at 15:00).
+- **Output Format**: Respond in JSON only: {"question": "your question (strictly following the format in the question format)", "answer": "your answer"}. Do not include task labels like '#Given Q&A#' or '#Generated Q&A#'.
+
+        #The Given Q&A#
+        {"question": "Now, please analyze the characteristics of this metric from the perspectives of trend, and conclude the physical meaning of the trend in one sentence.", "answer": "From the perspective of the slope, the overall trend is steady. However, local phase changes were observed, including: sudden increase. The value of time series starts from around 8.84 and ends at around 48.89, with an overall amplitude of 40.05. This is a test answer."}
+
+        #Question Format#
+        The question format should be similar with the given qa, but the depth and breadth of the inquiry can be increased.
+
+        #Generated Q&A#:<|im_end|><|im_start|>assistant
+[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 6it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 7it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0:  80%|████████  | 4/5 [00:00<00:00,  9.23it/s][A
+[VALID]fail=0: 100%|██████████| 5/5 [00:00<00:00,  7.46it/s][A[EVOL]fail=0: : 8it [00:00,  9.82it/s]
+[VALID]fail=0: 100%|██████████| 5/5 [00:00<00:00,  7.46it/s][A[VALID]fail=0: 100%|██████████| 5/5 [00:00<00:00,  7.09it/s]
+[EVOL]fail=0: : 8it [00:00, 11.33it/s]
+-------------------------------------------
+Finished! File saved to data/evol_5_no.jsonl.

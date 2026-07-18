@@ -1,0 +1,20 @@
+2026-07-17 21:20:02,676 | INFO | Log file: /root/autodl-tmp/ChatTS/reproduction_logs/transformers_smoke_20260717_212002.log
+2026-07-17 21:20:02,676 | INFO | Project root: /root/autodl-tmp/ChatTS
+2026-07-17 21:20:02,677 | INFO | Model path: /root/autodl-tmp/ChatTS/ckpt
+2026-07-17 21:20:02,677 | INFO | Python: 3.11.15
+2026-07-17 21:20:02,677 | INFO | PyTorch: 2.6.0+cu124
+2026-07-17 21:20:02,677 | INFO | Transformers: 4.52.4
+2026-07-17 21:20:02,677 | INFO | NumPy: 1.26.4
+2026-07-17 21:20:02,824 | INFO | GPU: NVIDIA GeForce RTX 4090 D
+2026-07-17 21:20:02,824 | INFO | VRAM total: 23.52 GB
+2026-07-17 21:20:02,824 | INFO | Loading model shards...
+2026-07-17 21:20:08,246 | INFO | Model loaded in 5.42 seconds
+2026-07-17 21:20:08,247 | INFO | VRAM after load: 15.38 GB
+2026-07-17 21:20:08,247 | INFO | Loading tokenizer and processor...
+2026-07-17 21:20:09,638 | INFO | Generating with max_new_tokens=128...
+2026-07-17 21:20:11,693 | INFO | Generation completed in 2.05 seconds
+2026-07-17 21:20:11,694 | INFO | Generation peak VRAM: 15.45 GB
+2026-07-17 21:20:11,694 | INFO | Question: I have two time series: TS1 <ts><ts/> and TS2 <ts><ts/>. Analyze their local changes and determine whether the changes occur near the same time. State the approximate points as evidence.
+2026-07-17 21:20:11,694 | INFO | Answer:
+The sudden decrease in TS1 occurs between point 100 and 103, while the upward spike in TS2 occurs between point 102 and 104. These events are very close in time, with the spike in TS2 starting just after the decrease in TS1 ends. Therefore, the changes occur near the same time.
+2026-07-17 21:20:11,694 | INFO | Smoke test PASSED
