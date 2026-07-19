@@ -13,10 +13,11 @@ integration and inference smoke tests, not benchmark reporting.
 
 `telecomts_example.csv` is the anomalous fixture window in the same layout as
 `ts_example.csv`: one numeric KPI per column and one time point per row. It has
-16 columns and 128 rows, with no index or timestamp column, so it can be
-uploaded directly through the ChatTS CSV demo. The two categorical protocol
-channels are excluded because the current ChatTS processor accepts numeric
-time series.
+8 columns and 128 rows, with no index or timestamp column, so it can be
+uploaded directly through the ChatTS CSV demo. The selected columns are
+`RSRP`, `UL_SNR`, `DL_BLER`, `UL_BLER`, `DL_MCS`, `UL_MCS`, `TX_Bytes`, and
+`RX_Bytes`. They cover radio quality, block errors, modulation/coding, and
+traffic volume without exceeding the web demo's series limit.
 
 `telecomts_synthetic_example.csv` is a second CSV from the synthetic TelecomTS
 anomaly set. It is an `Antenna Failure` window with the annotated anomaly range
@@ -72,7 +73,8 @@ Convert any fixture or raw `chunked.jsonl` record to the demo CSV layout:
 python scripts/telecomts_jsonl_to_csv.py \
   --input demo/telecomts_smoke.jsonl \
   --line-index 0 \
-  --output demo/telecomts_example.csv
+  --output demo/telecomts_example.csv \
+  --kpis RSRP UL_SNR DL_BLER UL_BLER DL_MCS UL_MCS TX_Bytes RX_Bytes
 ```
 
 For the synthetic onset example, use the raw TelecomTS file and its selected
@@ -82,5 +84,6 @@ record:
 python scripts/telecomts_jsonl_to_csv.py \
   --input /path/to/TelecomTS/anomalous/synthetic/Zone_A/File/processed/chunked.jsonl \
   --line-index 19 \
-  --output demo/telecomts_synthetic_example.csv
+  --output demo/telecomts_synthetic_example.csv \
+  --kpis RSRP UL_SNR DL_BLER UL_BLER DL_MCS UL_MCS TX_Bytes RX_Bytes
 ```

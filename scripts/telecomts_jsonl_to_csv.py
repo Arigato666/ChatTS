@@ -12,6 +12,16 @@ from typing import Any
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_INPUT = PROJECT_ROOT / "demo" / "telecomts_smoke.jsonl"
 DEFAULT_OUTPUT = PROJECT_ROOT / "demo" / "telecomts_example.csv"
+DEFAULT_KPIS = (
+    "RSRP",
+    "UL_SNR",
+    "DL_BLER",
+    "UL_BLER",
+    "DL_MCS",
+    "UL_MCS",
+    "TX_Bytes",
+    "RX_Bytes",
+)
 
 
 def parse_args() -> argparse.Namespace:
@@ -19,6 +29,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--input", type=Path, default=DEFAULT_INPUT)
     parser.add_argument("--line-index", type=int, default=0)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
+    parser.add_argument(
+        "--kpis",
+        nargs="+",
+        default=list(DEFAULT_KPIS),
+        help="KPI columns to export, in order.",
+    )
     args = parser.parse_args()
     if args.line_index < 0:
         parser.error("--line-index must be non-negative")
@@ -35,21 +51,30 @@ def read_record(path: Path, line_index: int) -> dict[str, Any]:
     raise IndexError(f"No record at line index {line_index} in {path}")
 
 
-def numeric_kpis(sample: dict[str, Any]) -> dict[str, list[int | float]]:
+def numeric_kpis(
+    sample: dict[str, Any], requested_kpis: list[str]
+) -> dict[str, list[int | float]]:
     kpis = sample.get("KPIs")
     if not isinstance(kpis, dict):
         raise ValueError("TelecomTS sample has no KPIs object")
 
-    selected = {
-        name: values
-        for name, values in kpis.items()
-        if isinstance(values, list)
-        and values
-        and all(
-            isinstance(value, (int, float)) and not isinstance(value, bool)
-            for value in values
-        )
-    }
+    missing = [name for name in requested_kpis if name not in kpis]
+    if missing:
+        raise ValueError(f"Requested KPI channels are missing: {', '.join(missing)}")
+
+    selected = {}
+    for name in requested_kpis:
+        values = kpis[name]
+        if not (
+            isinstance(values, list)
+            and values
+            and all(
+                isinstance(value, (int, float)) and not isinstance(value, bool)
+                for value in values
+            )
+        ):
+            raise ValueError(f"Requested KPI channel is not numeric: {name}")
+        selected[name] = values
     if not selected:
         raise ValueError("TelecomTS sample contains no numeric KPI channels")
     lengths = {len(values) for values in selected.values()}
@@ -71,7 +96,7 @@ def main() -> None:
     input_path = args.input.expanduser().resolve()
     output_path = args.output.expanduser().resolve()
     sample = read_record(input_path, args.line_index)
-    kpis = numeric_kpis(sample)
+    kpis = numeric_kpis(sample, args.kpis)
     write_csv(kpis, output_path)
     sequence_length = len(next(iter(kpis.values())))
     print(
